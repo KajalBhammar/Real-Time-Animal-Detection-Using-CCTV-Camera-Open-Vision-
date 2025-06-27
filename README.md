@@ -1,7 +1,7 @@
 # 📡 Real-Time Animal Detection Using CCTV Camera (YOLOv8)
 
 
-This project is an **open vision initiative** built using **YOLOv8**, a state-of-the-art object detection model developed by **Ultralytics**. It presents a complete pipeline for detecting animals from CCTV footage — suitable for both real-time and static image analysis. 
+This project is an **open vision initiative** built using **YOLOv8**, a state-of-the-art object detection model developed by **Ultralytics**. It presents a complete pipeline for detecting animals from CCTV footage suitable for both real-time and static image analysis. 
 
 The system is designed to be modular, scalable, and easy to deploy, and is particularly useful for:
 
