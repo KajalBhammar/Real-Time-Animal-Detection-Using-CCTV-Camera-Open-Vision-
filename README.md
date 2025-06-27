@@ -141,16 +141,11 @@ To deploy this project for real-time use:
 
 ## 🧑‍💻 Author
 
-**Tirth Korat**  
-AI Researcher | Animal Detection Specialist
+**Kajal Bhamar**  
+AI/ML engineer
+Email: kajalbhammar@gmail.com 
 
 Feel free to reach out for collaboration or inquiries.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute it for academic, research, or commercial purposes.  
-If you use the **private dataset**, please seek permission before redistribution.
