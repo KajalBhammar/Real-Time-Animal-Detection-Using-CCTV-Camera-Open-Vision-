@@ -141,9 +141,9 @@ To deploy this project for real-time use:
 
 ## 🧑‍💻 Author
 
-**Kajal Bhamar**  
-AI/ML engineer
-Email: kajalbhammar@gmail.com 
+**Kajal Bhammar**  
+AI/ML Engineer  
+📧 Email: kajalbhammar@gmail.com  
 
 Feel free to reach out for collaboration or inquiries.
 
