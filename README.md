@@ -34,10 +34,10 @@ This repository includes:
 
 **Folder Structure**:
 ```
-├── train
+└── train
       ├── images
       └── labels
-├── valid
+└── valid
       ├── images
       └── labels
 └── test
