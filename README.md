@@ -131,7 +131,7 @@ pip install ultralytics albumentations opencv-python matplotlib seaborn
 
 ## 🔗 Model Weights
 
-The trained YOLOv8 weights aren’t published here—please email **kajalbhammar@gmail.com** to request access.
+The trained YOLOv8 weights aren’t published here please email **kajalbhammar@gmail.com** to request access.
 
 ---
 ## 🧑‍💻 Author
