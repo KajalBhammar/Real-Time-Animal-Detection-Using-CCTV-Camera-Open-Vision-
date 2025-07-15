@@ -125,21 +125,11 @@ pip install ultralytics albumentations opencv-python matplotlib seaborn
 
 ---
 
-## 🚀 Deployment (Optional)
-
-To deploy this project for real-time use:
-
-- Wrap the inference logic in a **Streamlit** or **Flask** app  
-- Use a webcam or CCTV video stream as input  
-- Optimize the trained YOLOv8 model with **ONNX** or **TensorRT** for edge devices  
-- Host it on a cloud server or local edge device like Jetson Nano / Raspberry Pi
-
----
 
 ## 🧑‍💻 Author
 
 **Kajal Bhammar**  
-AI/ML Engineer  
+AI/ML Developer  
 📧 Email: kajalbhammar@gmail.com  
 
 Feel free to reach out for collaboration or inquiries.
