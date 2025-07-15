@@ -34,12 +34,15 @@ This repository includes:
 
 **Folder Structure**:
 ```
-/train/images/
-/train/labels/
-/valid/images/
-/valid/labels/
-/test/images/
-/test/labels/
+├── train
+      ├── images
+      └── labels
+├── valid
+      ├── images
+      └── labels
+└── test
+      ├── images
+      └── labels
 ```
 
 **Label Format (YOLO)**:
