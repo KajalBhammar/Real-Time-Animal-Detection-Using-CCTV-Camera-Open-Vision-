@@ -21,14 +21,11 @@ This repository includes:
 - ✅ Inference interface for single images  
 - ✅ Example visualization of results
 
-> 📌 **Note**: This notebook trains for 20 epochs using a public dataset for demonstration.  
-> In production, we used a **private CCTV dataset** and trained the model using **cloud-based GPUs** for performance and scale.
-
 ---
 
 ## 🗂️ Dataset Info
 
-**Source**: Roboflow (public dataset)
+**Source**: Private Dataset
 
 **Classes**:
 ```python
