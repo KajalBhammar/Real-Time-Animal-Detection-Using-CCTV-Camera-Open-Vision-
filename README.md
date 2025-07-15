@@ -71,7 +71,7 @@ pip install ultralytics albumentations opencv-python matplotlib seaborn
 
 ### 4️⃣ Train the YOLOv8 Model
 - Loads pretrained `yolov8s.pt`  
-- Trains for 20 epochs, `imgsz=640`, `batch=16`  
+- Trains for 25 epochs, `imgsz=640`, `batch=16`  
 - Saves outputs to `runs/detect/animal-detection-yolov8/`
 
 ### 5️⃣ Visualize Training Results
@@ -129,7 +129,11 @@ pip install ultralytics albumentations opencv-python matplotlib seaborn
 
 ---
 
+## 🔗 Model Weights
 
+The trained YOLOv8 weights aren’t published here—please email **kajalbhammar@gmail.com** to request access.
+
+---
 ## 🧑‍💻 Author
 
 **Kajal Bhammar**  
