@@ -1,4 +1,4 @@
-<img width="1024" height="683" alt="output" src="https://github.com/user-attachments/assets/99df0b7c-6f64-4b3f-8803-f2396a25a442" /># 📡 Real-Time Animal Detection Using CCTV Camera (YOLOv8)
+# 📡 Real-Time Animal Detection Using CCTV Camera (YOLOv8)
 
 This project is an **open vision initiative** built using **YOLOv8**, a state-of-the-art object detection model developed by **Ultralytics**. It presents a complete pipeline for detecting animals from CCTV footage — suitable for both real-time and static image analysis.
 
@@ -97,7 +97,7 @@ Sample YOLOv8 output with bounding boxes on animal classes:
 → Rendered bounding boxes in real-time
 ```
 
-> ![Results](./Results/Results.png "Results")
+> <img width="1024" height="683" alt="output" src="https://github.com/user-attachments/assets/99df0b7c-6f64-4b3f-8803-f2396a25a442" />
 
 
 ---
