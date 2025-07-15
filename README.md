@@ -97,7 +97,7 @@ Sample YOLOv8 output with bounding boxes on animal classes:
 → Rendered bounding boxes in real-time
 ```
 
-> <img width="1024" height="683" alt="output" src="https://github.com/user-attachments/assets/99df0b7c-6f64-4b3f-8803-f2396a25a442" />
+> <img width="650" height="450" alt="output" src="https://github.com/user-attachments/assets/99df0b7c-6f64-4b3f-8803-f2396a25a442" />
 
 
 ---
